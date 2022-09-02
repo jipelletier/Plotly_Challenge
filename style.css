@@ -5,7 +5,7 @@ body {
 
 /* add an image to the jumbotron */
 .jumbotron {
-    background-image: url("../images/DNA.png");
+    background-image: url("images/DNA.png");
     background-size: 100% 100%;
     text-align: center;
     color: #f7f7f7;
